@@ -13,7 +13,6 @@ I achieved the following requirements:
 - Implemented two LEDs flashing at exactly 0.5 Hz (1 second on, 1 second off)
 - Created modular, reusable code in assembly language
 - Verified timing accuracy using oscilloscope measurements
-- Successfully demonstrated both implementation methods
 
 ## Implementation Details
 
